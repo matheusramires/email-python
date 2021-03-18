@@ -1,0 +1,9 @@
+Passos:
+1 - entrar no gmail do remetente (seu email);
+
+2 - acessar link abaixo:
+https://www.google.com/settings/security/lesssecureapps
+
+3 - habilitar acesso;
+
+4 - rodar o codigo python.
