@@ -4,7 +4,7 @@ try:
     while 1:
         fromaddr = 'seu_email@gmail.com'
         toaddrs  = 'email_do_destinatario@yahoo.com'
-        msg = 'Spam email Test'
+        msg = 'Mensagem'
 
         username = 'seu_email@gmail.com'
         password = 'sua_senha'
